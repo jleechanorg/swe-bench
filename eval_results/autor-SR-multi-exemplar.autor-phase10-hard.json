@@ -1,0 +1,45 @@
+{
+    "total_instances": 8,
+    "submitted_instances": 8,
+    "completed_instances": 7,
+    "resolved_instances": 6,
+    "unresolved_instances": 1,
+    "empty_patch_instances": 0,
+    "error_instances": 1,
+    "completed_ids": [
+        "astropy__astropy-13579",
+        "astropy__astropy-14369",
+        "astropy__astropy-7671",
+        "django__django-13033",
+        "django__django-13315",
+        "django__django-13820",
+        "pylint-dev__pylint-8898"
+    ],
+    "incomplete_ids": [],
+    "empty_patch_ids": [],
+    "submitted_ids": [
+        "astropy__astropy-13579",
+        "astropy__astropy-14369",
+        "astropy__astropy-7671",
+        "django__django-13033",
+        "django__django-13315",
+        "django__django-13820",
+        "matplotlib__matplotlib-23412",
+        "pylint-dev__pylint-8898"
+    ],
+    "resolved_ids": [
+        "astropy__astropy-13579",
+        "astropy__astropy-7671",
+        "django__django-13033",
+        "django__django-13315",
+        "django__django-13820",
+        "pylint-dev__pylint-8898"
+    ],
+    "unresolved_ids": [
+        "astropy__astropy-14369"
+    ],
+    "error_ids": [
+        "matplotlib__matplotlib-23412"
+    ],
+    "schema_version": 2
+}
